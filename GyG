@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Venta de Bienes Raíces en Oriente Antioqueño</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        header {
+            background-color: #003366;
+            color: #ffd700;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px 0;
+        }
+        .bio, .services, .contact {
+            background-color: #fff;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #003366;
+        }
+        .contact-info {
+            list-style-type: none;
+            padding: 0;
+        }
+        .contact-info li {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Venta de Bienes Raíces en Oriente Antioqueño</h1>
+    </header>
+    <div class="container">
+        <section class="bio">
+            <h2>Sobre Nosotros</h2>
+            <p>Bienvenido a nuestro sitio web de bienes raíces en el oriente antioqueño. Somos expertos en la captación y venta de bienes inmuebles en esta hermosa región de Colombia. Con años de experiencia en el mercado inmobiliario, nos dedicamos a ofrecer las mejores propiedades y a proporcionar un servicio de calidad a nuestros clientes.</p>
+        </section>
+        <section class="services">
+            <h2>Nuestros Servicios</h2>
+            <p>Ofrecemos una amplia gama de servicios para satisfacer todas sus necesidades inmobiliarias:</p>
+            <ul>
+                <li>Captación de bienes inmuebles</li>
+                <li>Venta de propiedades residenciales y comerciales</li>
+                <li>Asesoría en inversión inmobiliaria</li>
+                <li>Gestión de trámites y documentación</li>
+            </ul>
+        </section>
+        <section class="contact">
+            <h2>Contacto</h2>
+            <p>Para más información o para agendar una cita, no dude en ponerse en contacto con nosotros:</p>
+            <ul class="contact-info">
+                <li>Celular: 323-217-1190</li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
